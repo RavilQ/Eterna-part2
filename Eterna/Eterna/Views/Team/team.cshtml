@@ -1,0 +1,50 @@
+﻿@using Eterna.Models
+@model List<Cards>
+
+<main id="main">
+
+   
+
+
+    <section id="breadcrumbs" class="breadcrumbs">
+        <div class="container">
+            <ol>
+                <li><a href="index.html">Home</a></li>
+                <li>Team</li>
+            </ol>
+            <h2>Team</h2>
+
+        </div>
+    </section>
+
+    <section id="team" class="team">
+        <div class="container">
+
+            <div class="row">
+     
+                @foreach (var item in Model)
+                {
+                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+                        <div class="member">
+                            <img src="assets/img/team/@item.Img">
+                            <h4><a asp-action="detail" asp-route-id="@item.Id">@item.Title1</a></h4>
+                            <span>@item.Title2</span>
+                            <p>
+                                @item.Desc
+                            </p>
+                            <div class="social">
+                                <a href=""><i class="bi bi-twitter"></i></a>
+                                <a href=""><i class="bi bi-facebook"></i></a>
+                                <a href=""><i class="bi bi-instagram"></i></a>
+                                <a href=""><i class="bi bi-linkedin"></i></a>
+                            </div>
+                        </div>
+                    </div>
+
+                }
+              
+            </div>
+
+        </div>
+    </section>
+</main>

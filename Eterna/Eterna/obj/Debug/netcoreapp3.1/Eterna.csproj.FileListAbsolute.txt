@@ -1,0 +1,89 @@
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\bin\Debug\netcoreapp3.1\Eterna.exe
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\bin\Debug\netcoreapp3.1\Eterna.deps.json
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\bin\Debug\netcoreapp3.1\Eterna.runtimeconfig.json
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\bin\Debug\netcoreapp3.1\Eterna.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\bin\Debug\netcoreapp3.1\Eterna.dll
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\bin\Debug\netcoreapp3.1\Eterna.pdb
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\bin\Debug\netcoreapp3.1\Eterna.Views.dll
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\bin\Debug\netcoreapp3.1\Eterna.Views.pdb
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.AssemblyInfo.cs
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\staticwebassets\Eterna.StaticWebAssets.Manifest.cache
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.TagHelpers.input.cache
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.TagHelpers.output.cache
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.RazorCoreGenerate.cache
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\About\About.cshtml.g.cs
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\Add\Add.cshtml.g.cs
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\Portfolio\Portfolio.cshtml.g.cs
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\Services\Services.cshtml.g.cs
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.Views.pdb
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.dll
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.pdb
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.genruntimeconfig.cache
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.csproj.CopyComplete
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\Home\detail1.cshtml.g.cs
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\Home\detail2.cshtml.g.cs
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\Home\detail3.cshtml.g.cs
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\Home\detail4.cshtml.g.cs
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\Home\detail5.cshtml.g.cs
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\Home\detail6.cshtml.g.cs
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\Team\team.cshtml.g.cs
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\Pircing\pircing.cshtml.g.cs
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\Blog\blog.cshtml.g.cs
+C:\Users\HP\Desktop\Back End\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\Contact\contact.cshtml.g.cs
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\bin\Debug\netcoreapp3.1\Eterna.exe
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\bin\Debug\netcoreapp3.1\Eterna.deps.json
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\bin\Debug\netcoreapp3.1\Eterna.runtimeconfig.json
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\bin\Debug\netcoreapp3.1\Eterna.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\bin\Debug\netcoreapp3.1\Eterna.dll
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\bin\Debug\netcoreapp3.1\Eterna.pdb
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\bin\Debug\netcoreapp3.1\Eterna.Views.dll
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\bin\Debug\netcoreapp3.1\Eterna.Views.pdb
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.AssemblyInfo.cs
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\staticwebassets\Eterna.StaticWebAssets.Manifest.cache
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.TagHelpers.input.cache
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.TagHelpers.output.cache
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.RazorCoreGenerate.cache
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\About\About.cshtml.g.cs
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\Add\Add.cshtml.g.cs
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\Blog\blog.cshtml.g.cs
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\Contact\contact.cshtml.g.cs
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\Pircing\pircing.cshtml.g.cs
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\Portfolio\Portfolio.cshtml.g.cs
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\Services\Services.cshtml.g.cs
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\Team\team.cshtml.g.cs
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.Views.pdb
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.dll
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.pdb
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.genruntimeconfig.cache
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Eterna.csproj.CopyComplete
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\Home\detail.cshtml.g.cs
+C:\Users\HP\Desktop\Tapsirig\Modal\Eterna\Eterna\obj\Debug\netcoreapp3.1\Razor\Views\Team\Detail.cshtml.g.cs
